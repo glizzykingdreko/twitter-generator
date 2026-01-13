@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/GlizzyKingDreko/twitter_generator-python"><img src="https://img.shields.io/badge/Check%20the%20Python%20version-purple?logo=python&style=flat-square" alt="Check the Python version"></a>
+  <a href="https://github.com/GlizzyKingDreko/twitter_generator"><img src="https://img.shields.io/badge/Check%20the%20Python%20version-purple?logo=python&style=flat-square" alt="Check the Python version"></a>
   <a href="https://medium.com/@glizzykingdreko/x-former-twitter-login-flow-reconstruction-episode-1-headers-generation-68a23add39e1"><img src="https://img.shields.io/badge/Read%20the%20full%20article%20on%20Medium-12100E?logo=medium&logoColor=white&style=flat-square" alt="Read the full article on Medium"></a>
   <a href="https://buymeacoffee.com/glizzykingdreko"><img src="https://img.shields.io/badge/Support%20my%20research%20by%20buying%20me%20a%20coffee-242424?style=flat-square&logo=buy-me-a-coffee&logoColor=yellow" alt="Buy me a coffee"></a>
 </div>
