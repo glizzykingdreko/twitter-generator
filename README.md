@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status: Complete">
   <img src="https://img.shields.io/badge/Type-Research-blue" alt="Type: Research">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License: MIT">
-  <a href="https://www.npmjs.com/package/twitter_generator"><img src="https://img.shields.io/npm/v/twitter_generator.svg?style=flat-square&color=cb3837&logo=npm" alt="npm version"></a>
   <a href="https://github.com/GlizzyKingDreko/twitter_generator"><img src="https://img.shields.io/github/stars/GlizzyKingDreko/twitter_generator?style=flat-square&logo=github" alt="GitHub stars"></a>
   <a href="https://github.com/GlizzyKingDreko/twitter_generator"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub repo"></a>
 </div>
