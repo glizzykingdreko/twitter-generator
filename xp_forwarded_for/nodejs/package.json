@@ -1,0 +1,19 @@
+{
+  "name": "xpforwarded-token",
+  "version": "1.0.0",
+  "description": "X-XP-Forwarded-For token generator and decoder for Twitter/X API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "twitter",
+    "x",
+    "xpforwarded",
+    "authentication",
+    "token"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
